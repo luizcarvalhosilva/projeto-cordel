@@ -21,3 +21,7 @@
 </div>
 
 ###
+
+<div align="center">
+  ![Desafio Cordel - Google Chrome](https://github.com/user-attachments/assets/1072cad0-c965-446a-8782-6acefe39aa62)
+</div>
